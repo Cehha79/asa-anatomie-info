@@ -2,3 +2,6 @@
 .playwright-cli/
 node_modules/
 *.log
+DOKU/
+CLAUDE.md
+AGENTS.md
